@@ -9,3 +9,7 @@ bu iki satır yazılıp kayıt edildi
 şimdi branch oluşturuyoruz
 
 branch oluşturuldu bu değişiklik yapıldı
+
+br - pull req yapılıyor
+
+
