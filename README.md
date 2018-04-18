@@ -12,4 +12,7 @@ branch oluşturuldu bu değişiklik yapıldı
 
 br - pull req yapılıyor
 
+ikinci branch oluşturutlsu
+
+
 
