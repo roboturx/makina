@@ -16,4 +16,7 @@ ikinci branch oluşturutlsu
 
 2.br   değişklk  commit
 
+tekrar değşlklk yap comm
+
+
 
