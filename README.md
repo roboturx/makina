@@ -12,4 +12,11 @@ branch oluşturuldu bu değişiklik yapıldı
 
 br - pull req yapılıyor
 
+ikinci branch oluşturutlsu
+
+2.br   değişklk  commit
+
+tekrar değşlklk yap comm
+
+
 
