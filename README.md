@@ -14,5 +14,6 @@ br - pull req yapılıyor
 
 ikinci branch oluşturutlsu
 
+2.br   değişklk  commit
 
 
