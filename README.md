@@ -19,4 +19,4 @@ ikinci branch oluşturutlsu
 tekrar değşlklk yap comm
 
 zzzzzzzzzzzzzzzzzzzzzzzzzz
-
+ddddddddddddddddddddddddddddd
