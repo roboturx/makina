@@ -20,3 +20,5 @@ tekrar değşlklk yap comm
 
 zzzzzzzzzzzzzzzzzzzzzzzzzz
 ddddddddddddddddddddddddddddd
+gfsdbgsdb
+hmndgndgnh
